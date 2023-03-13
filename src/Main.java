@@ -7,10 +7,12 @@ public class Main {
         modelName = name;
     }
 
-    public static void main (string []args){
+    public static void main (String []args) {
         Main myCar = new Main(1969, "Mustang");
-        system.out.println(myCar.modelyear + " " + myCar.modelName
-    }
+        System.out.println(myCar.modelyear + " " + myCar.modelName);
+
+    };
+
 
 
 
